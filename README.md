@@ -11,13 +11,12 @@
     ┛┗┗┻┛┗┻┗ ┗  ┗┛.  ┗┛┗┛┗┛┗┛┗┗┗ ┛ 
 
 </p>
-
-    <div style="font-family: Iosevka, monospace; background: #000; color: #00ff00; padding: 10px;">
-  /SOBRE MIM
-  ├── /BIO
-  │   ├── BRASILEIRO (pt-br/eng)
-  │   └── ESTUDANDE DE ENGENHARIA DE SOFTWARE
-  └── /OS
+        
+         /SOBRE MIM
+    ├── /BIO
+    │   ├── BRASILEIRO (pt-br/eng)
+    │   └── ESTUDANDE DE ENGENHARIA DE SOFTWARE
+    └── /OS
       ├── /WINDOWS (MAIN)
       |   └──ᴡꜱʟ-ᴜʙᴜɴᴛᴜ_ᴠ22.𝟢4-ʟᴛꜱ   
       ├── /LINUX
@@ -38,12 +37,6 @@
       └── /IDEs
             ├── VSCODE (MAIN)
             └── INTELIJ
-
-
-
-
-</div>
-        
   </tr>
 </table>
 
