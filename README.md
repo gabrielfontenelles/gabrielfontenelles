@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21zqn3w4tn5qtwq3v2c3cbbai&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
       
   <!-- Links -->
 
