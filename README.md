@@ -39,7 +39,13 @@
             └── INTELIJ
   </tr>
 </table>
+      
+  <!-- Links -->
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fontenelles-977402242/)
+
+  
+    
 <details>
 <summary> 𝑪𝒐𝒅𝒆 𝑺𝒕𝒂𝒕𝒔 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━ ━━━</summary>
 <br>
