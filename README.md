@@ -15,7 +15,7 @@
         
          /SOBRE MIM
     ├── /BIO
-    │   ├── BRASILEIRO (pt-br/eng-mediu level)
+    │   ├── BRASILEIRO (pt-br/eng-medium level)
     │   └── ESTUDANDE DE ENGENHARIA DE SOFTWARE
     └── /OS
       ├── /WINDOWS (MAIN)
@@ -27,7 +27,6 @@
       |    ├── JAVASCRIPT
       |    ├── JAVA
       |    ├── TYPESCRIPT
-      |    ├── VUE.JS
       |    └── ANGULAR
       |    
       |
