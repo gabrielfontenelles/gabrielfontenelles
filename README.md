@@ -26,12 +26,19 @@
       ├──  /STACK
       |    ├── JAVASCRIPT
       |    ├── JAVA
-      |    ├── TYPESCRIPT
+      |    |      ├── springboot
+      |    |      └── kotlin
+      |    ├── PYTHON
+      |    ├── C#
+      |    |      └──asp.net web api  
+      |    |
+      |    ├── REACT
       |    └── ANGULAR
       |    
       |
       ├── /DATABASES
       |    ├── ORACLE DATABASE
+      |    ├── POSTGRESQL
       |    └── MYSQL
       |
       └── /IDEs
